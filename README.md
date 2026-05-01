@@ -1,4 +1,4 @@
-# Suraj Y
+# Suraj Yadav
 
 **Senior Software Engineer** specializing in Angular and Generative AI and building production-grade frontend systems and AI pipelines.
 
