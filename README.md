@@ -76,5 +76,3 @@ const suraj = {
 [![GitHub Streak](https://streak-stats.demolab.com?user=surajy93&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ---
-
-*“The best code is the bug fix no one notices — until it’s gone.”*
