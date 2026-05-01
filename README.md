@@ -3,7 +3,7 @@
 ### Senior Software Engineer · Angular OSS Contributor · GenAI Builder · Mumbai, India 🇮🇳
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-surajy93-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajy93)
-[![GitHub followers](https://img.shields.io/github/followers/surajy93?style=flat-square&logo=github&label=Follow)](https://github.com/surajy93)
+[![GitHub](https://img.shields.io/badge/GitHub-surajy93-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/surajy93)
 [![Profile Views](https://komarev.com/ghpvc/?username=surajy93&style=flat-square&color=58a6ff)](https://github.com/surajy93)
 
 ---
@@ -20,22 +20,6 @@ const suraj = {
   available : "Open to Angular OSS + GenAI collaborations 🤝"
 };
 ```
-
----
-
-### 🔥 Open Source — Angular Contributions
-
-**🔧 Active — [Issue #68069](https://github.com/angular/angular/issues/68069)**
-
-> `NodeFlags.Ambient` is not preserved during AST transforms, causing `declare` property fields
-> in child `@Directive` / `@Component` classes to be incorrectly reset to `undefined` at runtime.
-> Working on a fix in `compiler-cli` to preserve the ambient flag through the transform pipeline.
-
-**✅ Merged — [PR #68171](https://github.com/angular/angular/pull/68171)**
-
-> Fixed broken type inference in `resource()` and `rxResource()` APIs.
-> The `params` inside the loader callback wasn't correctly narrowing `null` / `undefined`.
-> Solution required function-level overloads on `ResourceLoaderParams<R>`.
 
 ---
 
@@ -69,10 +53,6 @@ const suraj = {
 
 ### 📊 GitHub Stats
 
-![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajy93&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajy93&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=surajy93&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=surajy93&theme=github-dark-blue&hide_border=true)](https://github.com/surajy93)
 
 ---
