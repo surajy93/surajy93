@@ -1,5 +1,4 @@
-# Suraj Yadav
-
+# Suraj Yadav [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github)](https://github.com/sponsors/surajy93)
 **Senior Software Engineer** specializing in Angular and Generative AI and building production-grade frontend systems and AI pipelines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-surajy93-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajy93)
