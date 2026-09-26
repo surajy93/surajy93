@@ -1,21 +1,41 @@
-# Suraj Yadav
+<div align="center">
 
-Frontend engineer focused on Angular, TypeScript, and product interfaces, with a growing interest in AI application engineering.
+<h1>Suraj Yadav</h1>
 
-[LinkedIn](https://linkedin.com/in/surajy93) · [Portfolio](https://surajy93.github.io/surajy/) · [Email](mailto:surajyr93@gmail.com)
+<h3>Frontend engineer building thoughtful Angular products — growing toward AI application engineering.</h3>
 
-## Angular open source
+<a href="https://surajy93.github.io/surajy/">Portfolio</a> ·
+<a href="https://linkedin.com/in/surajy93">LinkedIn</a> ·
+<a href="mailto:surajyr93@gmail.com">Email</a>
 
-- [Angular PR #68290 — Signal Forms control creation ordering](https://github.com/angular/angular/pull/68290) — merged. Fixes the placement of `ControlCreate` relative to listeners in the template compilation pipeline.
-- [Angular Domino PR #34 — HTMLInputElement value accessors](https://github.com/angular/domino/pull/34) — merged. Adds support for null and undefined in the input value getter and setter.
-- [Angular PR #70454 — environment injector resolution for custom elements](https://github.com/angular/angular/pull/70454) — open; not yet merged.
+</div>
 
-## Selected work
+---
 
-- [Frontend System Design](https://github.com/surajy93/system_design_frontend) — interview notes, frontend design examples, and static diagrams. This is a learning/reference repository, not a deployed product.
-- [GPT and ML course exercises](https://github.com/surajy93/neetcode-gpt) — an in-progress learning repository based on the NeetCode ML course. The current checked-in version is incomplete and does not include a runnable GPT training or generation entry point.
-- [Portfolio site](https://surajy93.github.io/surajy/) — a static HTML and CSS site.
+## Engineering focus
 
-## Focus
+I work on frontend systems with Angular and TypeScript, with an emphasis on clear state flows, maintainable architecture, and useful product experiences. My next focus is applying those strengths to AI-powered applications.
 
-My current public work is strongest in Angular and TypeScript, including upstream framework contributions. I am building toward frontend engineering with generative AI; the repositories above distinguish upstream contribution evidence, learning material, and personal-site work.
+**Core:** Angular · TypeScript · RxJS · NgRx · Frontend architecture<br>
+**Exploring:** Generative AI · LLM-powered product UX
+
+## Open-source work
+
+| Contribution | What changed | Status |
+|---|---|---|
+| [Angular #68290](https://github.com/angular/angular/pull/68290) | Corrected Signal Forms control creation ordering relative to listeners in the template compilation pipeline. | **Merged** |
+| [Angular Domino #34](https://github.com/angular/domino/pull/34) | Added null and undefined support to the `HTMLInputElement` value getter and setter. | **Merged** |
+| [Angular #70454](https://github.com/angular/angular/pull/70454) | Proposed environment injector resolution changes for custom elements. | **Open** |
+
+## Selected repositories
+
+| Repository | What it contains |
+|---|---|
+| [Frontend System Design](https://github.com/surajy93/system_design_frontend) | Frontend interview notes, design examples, and visual references. A learning/reference repo, not a deployed product. |
+| [NeetCode ML exercises](https://github.com/surajy93/neetcode-gpt) | Selected course exercises. The current repository is incomplete and does not contain a runnable GPT training or generation pipeline. |
+| [Portfolio site](https://surajy93.github.io/surajy/) | A lightweight static site with a summary of my experience and engineering approach. |
+
+## Career direction
+
+**Frontend engineering → Generative AI → AI product engineering.**<br>
+I’m focusing on making AI features feel like dependable product experiences: clear interaction states, useful context, and behavior that can be evaluated.
